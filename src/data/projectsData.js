@@ -10,41 +10,42 @@ import eight from '../assets/svg/projects/eight.svg'
 
 export const projectsData = [
     {
-        id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
-    },
-    {
-        id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: two
-    },
-    {
-        id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: three
-    },
-    {
-        id: 4,
-        projectName: 'Android Patient Tracker',
+        id: 7,
+        projectName: 'Forecasting temperature anomalies of planet Earth: A Comparative Analysis of AI Models',
         projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
         tags: ['Flutter', 'Firebase'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        image: seven
+    },
+    {
+        id: 4,
+        projectName: 'Instagram Clone',
+        projectDesc: 'Responsive Instagram clone with Real-Time Chat feature',
+        tags: ['ReactJS', 'Firebase'],
+        code: 'https://github.com/Harsh09889/Instagram',
+        demo: 'https://react-instagram-byharsh.netlify.app/login',
         image: four
     },
+    {
+        id: 2,
+        projectName: 'Sudoku Solver',
+        projectDesc: 'Sudoku is a very mindful game but visualising it being done prgramatically is a great feeling.',
+        tags: ['ReactJS', 'DSA'],
+        code: 'https://github.com/Harsh09889/SudokuSolver',
+        demo: 'https://sudoku-solver-harsh.netlify.app/',
+        image: two
+    },
+    {
+        id: 3,
+        projectName: 'Swiggy',
+        projectDesc: 'Responsive Swiggy website clone.',
+        tags: ['ReactJS, Tailwind CSS, axios'],
+        code: 'https://github.com/Harsh09889/SwiggyClone',
+        demo: 'https://swiggy-masai.netlify.app/home',
+        image: three
+    },
+    // /*
     {
         id: 5,
         projectName: 'E-Commerce App',
@@ -64,13 +65,13 @@ export const projectsData = [
         image: six
     },
     {
-        id: 7,
+        id: 1,
         projectName: 'Stock Market App',
         projectDesc: 'A simple stock market API app',
         tags: ['React', 'Redux', 'Bootstrap'],
         code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: seven
+        image: one
     },
     {
         id: 8,
@@ -81,6 +82,7 @@ export const projectsData = [
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: eight
     },
+    // * /
 ]
 
 
@@ -97,4 +99,4 @@ export const projectsData = [
     demo: '',
     image: ''
 }, 
-*/
+// */

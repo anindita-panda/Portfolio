@@ -7,6 +7,7 @@ import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, F
  
 
 export const servicesData = [
+    /*
     // {
     //     id: 1,
     //     title: 'Marketing',
@@ -73,6 +74,7 @@ export const servicesData = [
         title: 'Blog Posting',
         icon: <FaRegNewspaper />
     },
+    */
 
 ]
 
