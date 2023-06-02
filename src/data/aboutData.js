@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name's Anindita Panda from Delhi, India. I am a creative, time punctual, dedicated, goal-oriented individual with more moral values and Ethicates along with a high-energy level, honed communication skills, strong organisational skills, and meticulous attention to detail.",
+    description2: "Currently, I am pursuing MCA in Software Engineering from USICT, GGSIPU in Delhi, with an expected completion in 2024. Additionally, I hold the position of Coordinator in the Training and Placement Cell at USICT.",
     image: 2
 }
